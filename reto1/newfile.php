@@ -1,12 +1,4 @@
-<html>
-<head>
-<title>Prueba debug</title>
-</head>
-<body>
-<?php
-$i = "Hola";
-echo $i; 
 
+<?php
+phpinfo();
  ?>
- </body>
- </html>
