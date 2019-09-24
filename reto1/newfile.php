@@ -1,3 +1,3 @@
-<?php
-phpinfo();SDFSDFRT
-?>CXVXCVXCVLLDFDFS
+<?phP
+SDFSD
+?>
