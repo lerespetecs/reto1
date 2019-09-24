@@ -5,7 +5,7 @@
 <body>
 <?php
 $i = "Hola";
-echo $i;
+echo $i; 
 
  ?>
  </body>
